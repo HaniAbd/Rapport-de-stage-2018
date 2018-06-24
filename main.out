@@ -1,0 +1,55 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Pr\351sentation de l'entreprise}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Pr\351sentation de l\220environnement de stage}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.3}{Probl\351matique du stage}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.4}{Planning}{chapter.1}% 5
+\BOOKMARK [0][-]{chapter.2}{Classification d'images}{}% 6
+\BOOKMARK [1][-]{section.2.1}{Introduction}{chapter.2}% 7
+\BOOKMARK [1][-]{section.2.2}{M\351thodes de classification}{chapter.2}% 8
+\BOOKMARK [1][-]{section.2.3}{Classification par apprentissage profond}{chapter.2}% 9
+\BOOKMARK [2][-]{subsection.2.3.1}{R\351seaux de neurones}{section.2.3}% 10
+\BOOKMARK [2][-]{subsection.2.3.2}{R\351seaux neuronaux convolutifs}{section.2.3}% 11
+\BOOKMARK [1][-]{section.2.4}{\311volutions et performances des algorithmes de classification}{chapter.2}% 12
+\BOOKMARK [2][-]{subsection.2.4.1}{Challenge ILSVRC}{section.2.4}% 13
+\BOOKMARK [2][-]{subsection.2.4.2}{AlexNet \(2012\)}{section.2.4}% 14
+\BOOKMARK [2][-]{subsection.2.4.3}{VGGNet \(2014\)}{section.2.4}% 15
+\BOOKMARK [2][-]{subsection.2.4.4}{GoogLeNet \(2014\)}{section.2.4}% 16
+\BOOKMARK [2][-]{subsection.2.4.5}{Resnet \(2015\)}{section.2.4}% 17
+\BOOKMARK [2][-]{subsection.2.4.6}{Inception-Resnet \(2016\)}{section.2.4}% 18
+\BOOKMARK [1][-]{section.2.5}{Utilisation des algorithmes de classification dans la solution de Watiz}{chapter.2}% 19
+\BOOKMARK [0][-]{chapter.3}{D\351tection d'objets}{}% 20
+\BOOKMARK [1][-]{section.3.1}{Introduction}{chapter.3}% 21
+\BOOKMARK [1][-]{section.3.2}{M\351thodes de d\351tection d'objets}{chapter.3}% 22
+\BOOKMARK [1][-]{section.3.3}{D\351tection d'objets par apprentissage profond}{chapter.3}% 23
+\BOOKMARK [1][-]{section.3.4}{\311volutions et performances des algorithmes de d\351tection}{chapter.3}% 24
+\BOOKMARK [2][-]{subsection.3.4.1}{Challenge VOC}{section.3.4}% 25
+\BOOKMARK [2][-]{subsection.3.4.2}{R-CNN \(2014\)}{section.3.4}% 26
+\BOOKMARK [2][-]{subsection.3.4.3}{Fast R-CNN \(2015\)}{section.3.4}% 27
+\BOOKMARK [2][-]{subsection.3.4.4}{Faster R-CNN \(2016\)}{section.3.4}% 28
+\BOOKMARK [2][-]{subsection.3.4.5}{YOLO \(2016\)}{section.3.4}% 29
+\BOOKMARK [1][-]{section.3.5}{Utilisation des d\351tecteurs d'objets dans la solution Watiz}{chapter.3}% 30
+\BOOKMARK [2][-]{subsection.3.5.1}{D\351tection de casques de chantier}{section.3.5}% 31
+\BOOKMARK [2][-]{subsection.3.5.2}{D\351tecteur d'objets pour l'\351diteur de vid\351o Watiz}{section.3.5}% 32
+\BOOKMARK [0][-]{chapter.4}{Tracking mono-objet dans un flux vid\351o}{}% 33
+\BOOKMARK [1][-]{section.4.1}{Introduction}{chapter.4}% 34
+\BOOKMARK [1][-]{section.4.2}{M\351thodes de tracking d'objets}{chapter.4}% 35
+\BOOKMARK [1][-]{section.4.3}{Les r\351seaux siamois}{chapter.4}% 36
+\BOOKMARK [1][-]{section.4.4}{\311volutions et performances des trackers d'objets dans les vid\351os}{chapter.4}% 37
+\BOOKMARK [2][-]{subsection.4.4.1}{Challenge VOT}{section.4.4}% 38
+\BOOKMARK [2][-]{subsection.4.4.2}{GOTURN \(2016\)}{section.4.4}% 39
+\BOOKMARK [2][-]{subsection.4.4.3}{Siamese-FC \(2016\)}{section.4.4}% 40
+\BOOKMARK [2][-]{subsection.4.4.4}{KCF \(2015\)}{section.4.4}% 41
+\BOOKMARK [2][-]{subsection.4.4.5}{MSDAT \(2016\)}{section.4.4}% 42
+\BOOKMARK [1][-]{section.4.5}{Utilisation des trackers d'objets dans la solution Watiz}{chapter.4}% 43
+\BOOKMARK [2][-]{subsection.4.5.1}{Tracking de v\352tements sportifs dans des vid\351os}{section.4.5}% 44
+\BOOKMARK [2][-]{subsection.4.5.2}{Tracker pour l'\351diteur de vid\351os Watiz}{section.4.5}% 45
+\BOOKMARK [0][-]{chapter.5}{D\351ploiement }{}% 46
+\BOOKMARK [1][-]{section.5.1}{Introduction}{chapter.5}% 47
+\BOOKMARK [1][-]{section.5.2}{Architecture globale}{chapter.5}% 48
+\BOOKMARK [1][-]{section.5.3}{Contraintes d'environnement de d\351ploiement}{chapter.5}% 49
+\BOOKMARK [1][-]{section.5.4}{Points d'entr\351es des API}{chapter.5}% 50
+\BOOKMARK [1][-]{section.5.5}{Scalabilit\351}{chapter.5}% 51
+\BOOKMARK [1][-]{section.5.6}{R\351sum\351}{chapter.5}% 52
+\BOOKMARK [0][-]{chapter.6}{Conclusion}{}% 53
+\BOOKMARK [1][-]{section.6.1}{Bilan des r\351alisations}{chapter.6}% 54
+\BOOKMARK [1][-]{section.6.2}{Am\351liorations futures}{chapter.6}% 55
